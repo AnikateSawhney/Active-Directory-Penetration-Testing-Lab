@@ -14,6 +14,8 @@ This is an Active Directory Pentesting Lab created by me which includes attacks 
 11. User with Null Password
 12. DCSync
 ### I have my YouTube Channel where you can watch the solutions to all of these attacks (https://www.youtube.com/watch?v=uOzX36XXrDs&list=PLw5BjpTl2awVQGjr2V01CD3Z-OJ9K0wBa)
+## Lab Info
+2 Domain Controllers (DC1 and DC2), 1 Windows 10 Machine, 1 Windows 2019 Server.
 ## Installation
 Simply download the OVAs and double-click them. 
 
@@ -22,3 +24,6 @@ DC2 and SERVER1 OVA link:- https://mega.nz/folder/t70CnAqB#r5IkFvfhXR653oE3bu5dj
 The 2nd mega link contains Kerberoasting video which was removed by YouTube.
 
 Note: The lab contains all the mentioned attacks but it will not be identical to the solutions because I keep messing up the lab and make a lot of changes.For example: You cannot directly attack certificates. There is an ACL path to certificates group. Exploit that and then go for certificate attacks. 
+
+Please be aware that the Microsoft Evaluation OVAs used in this lab are intended solely for educational and Testing purposes. I do not own or claim any rights to these Microsoft properties.
+These Evaluation OVAs are provided by Microsoft for users to assess and trial their software in a controlled environment. 
