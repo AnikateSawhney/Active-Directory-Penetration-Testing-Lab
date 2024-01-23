@@ -15,6 +15,7 @@ This is an Active Directory Pentesting Lab created by me which includes attacks 
 12. DCSync
 ### I have my YouTube Channel where you can watch the solutions to all of these attacks (https://www.youtube.com/watch?v=uOzX36XXrDs&list=PLw5BjpTl2awVQGjr2V01CD3Z-OJ9K0wBa)
 ## Lab Info
+4 OVAs
 2 Domain Controllers (DC1 and DC2), 1 Windows 10 Machine, 1 Windows 2019 Server.
 ## Installation
 Simply download the OVAs and double-click them. 
