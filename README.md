@@ -21,6 +21,7 @@ Simply download the OVAs and double-click them.
 
 DC1 and Win10 OVA link:- https://mega.nz/folder/U6cmUaaR#nV5gl94GgMJlB1zue9JSaQ
 DC2 and SERVER1 OVA link:- https://mega.nz/folder/t70CnAqB#r5IkFvfhXR653oE3bu5djQ
+
 The 2nd mega link contains Kerberoasting video which was removed by YouTube.
 
 Note: The lab contains all the mentioned attacks but it will not be identical to the solutions because I keep messing up the lab and make a lot of changes.For example: You cannot directly attack certificates. There is an ACL path to certificates group. Exploit that and then go for certificate attacks. 
